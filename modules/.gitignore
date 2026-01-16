@@ -1,0 +1,16 @@
+# Python 缓存垃圾
+__pycache__/
+*.py[cod]
+
+# 环境变量与密钥 (保护隐私)
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Streamlit 缓存
+.streamlit/
+
+# 浏览器下载的临时文件
+headless_shell/
